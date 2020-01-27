@@ -12,4 +12,4 @@ Matt Howat
 1. ...
 
 ## Responses To Readings 
-[Blumenstock Response]
+[Blumenstock Response](https://github.com/Matt-Howat/Workshop/blob/master/Blumenstock.md) (January 27th)

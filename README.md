@@ -10,3 +10,6 @@ Matt Howat
 ## Project 1
 
 1. ...
+
+## Responses To Readings 
+[Blumenstock Response]

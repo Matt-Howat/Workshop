@@ -1,0 +1,6 @@
+# Response to Lloyd
+Matt Howat
+
+Feburary
+
+Lloyd uses many different geospatial datasets in combination to create a raster of the world’s terrain. This information can be applied to many situations. With the creation of rasters, they used grid cells to disaggregated information of entire administrative areas into smaller areas. The scale of these grid cells is something that the researchers were looking to increase. They wanted to create the highest resolution map of the world as possible, this entails making the grid cells as small as possible so the information can be more specified within an area. Some of the main geospatial datasets that were used were roads, land cover, buildings, accessibility, and many more factors. The more datasets that are used allow for the GUIs to create a more accurate and higher resolution map. This is a vast improvement to the traditional way of assessing the human population, this increases speed, lowers cost, and in some cases increase accuracy. Surveys take time to complete and can be incredibly costly, however with the use of satellite imaging we have the ability to scan the world up to twice a day. With the use of GUIs and other programs, we are able to process these images and see any changes in almost real-time.  

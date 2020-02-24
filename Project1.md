@@ -20,5 +20,7 @@ The main challenge I faced here was the processing of the image, having to wait 
 
 ## Bar Graph of the Population Distribution
 
-The bar graph confirms just how concentrated the population is within Santo Domingo. The 
+The bar graph confirms just how concentrated the population is within Santo Domingo. The green numbers on the map above the labels shows the density of the population (population/km^2).
+
+![Map and Bar Graph of the population in the Dominican Republic](https://github.com/Matt-Howat/Workshop/blob/master/DomRepBarGraph.png)
 

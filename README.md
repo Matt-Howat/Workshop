@@ -9,7 +9,7 @@ Matt Howat
 
 ## Project 1
 
-1. [Dominican Republic](https://github.com/Matt-Howat/Workshop/blob/master/project1.md)
+1. [Dominican Republic](https://github.com/Matt-Howat/Workshop/blob/master/Project1.md)
 
 ## Responses To Readings 
 [Blumenstock Response](https://github.com/Matt-Howat/Workshop/blob/master/Blumenstock.md) (January 27th)

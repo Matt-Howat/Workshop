@@ -20,4 +20,5 @@ The main challenge I faced here was the processing of the image, having to wait 
 
 ## Bar Graph of the Population Distribution
 
+The bar graph confirms just how concentrated the population is within Santo Domingo. The 
 

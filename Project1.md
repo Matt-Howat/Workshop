@@ -1,4 +1,4 @@
-#Project 1: Dominican Republic
+# Project 1: Dominican Republic
 
 Matt Howat
 
@@ -10,12 +10,14 @@ The main challenge that I faced was creating the borders so that it was clear as
 
 ![Dominican Republic Subdivisions](https://github.com/Matt-Howat/Workshop/blob/master/dominican%20republic.png)
 
-##Population of Dominican Republic's Provinces
+## Population of Dominican Republic's Provinces
 
-Add file
+The populaton of Dominican Republic is very concentrated within one province, Santo Domingo. This is because it contains the capital and a major city of the Dominican Republic.
 
-## Population of Dominican Republic's counties
+The main challenge I faced here was the processing of the image, having to wait a mintute or longer between attempts was testing and lengthened the amount of time to finish this part of the project.
 
-Add file
+![Dominican Republic Population Distribution](https://github.com/Matt-Howat/Workshop/blob/master/dom_pop19.png)
 
 ## Bar Graph of the Population Distribution
+
+

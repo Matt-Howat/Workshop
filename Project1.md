@@ -8,7 +8,7 @@ The Dominican Republic is a country that has two administrative levels under the
 
 The main challenge that I faced was creating the borders so that it was clear as to which level was being divided. I did this by changing the thickness and color of the borders. One finding that I was able to observe was that some provinces were not divided any further, there are multiple provinces that only contain one city.
 
-![Dominican Republic Subdivisions](dominican republic.png)
+![Dominican Republic Subdivisions](https://github.com/Matt-Howat/Workshop/blob/master/dominican%20republic.png)
 
 ##Population of Dominican Republic's Provinces
 

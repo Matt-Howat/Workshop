@@ -5,7 +5,7 @@ Matt Howat
 ## Part 1: Acquiring, Modifying and Describing the Data
 
 ### NTL and Population Graph
-![NTL and Population Graph](https://github.com/Matt-Howat/Workshop/blob/master/NTL%2Cpop15.png)
+![NTL and Population Graph](NTL%2Cpop15.png)
 The graph shows the variables NTL and the Population of the Dominican Republic
 The R^2 value of this graph is .9198
 

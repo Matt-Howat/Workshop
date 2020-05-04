@@ -16,6 +16,9 @@ Matt Howat
 ## Project 3
 [Dominican Republic Project 3](https://github.com/Matt-Howat/Workshop/blob/master/Project3.md)
 
+## Project 4
+[Dominican Republic Project 4](https://github.com/Matt-Howat/Workshop/blob/master/Project4.md)
+
 ## Responses To Readings 
 [Blumenstock Response](https://github.com/Matt-Howat/Workshop/blob/master/Blumenstock.md) (January 27th)
 
